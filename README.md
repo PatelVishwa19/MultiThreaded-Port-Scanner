@@ -1,6 +1,6 @@
 # Multi-Threaded Port Scanner with Banner Grabbing
 
-This project is a Python-based network port scanner designed for educational and defensive security purposes.
+This project is a Python-based network port scanner designed for defensive security purposes.
 
 ## Features
 - Multi-threaded TCP port scanning
